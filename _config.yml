@@ -9,6 +9,7 @@ tagline:             'Driving Decisions With Data'
 description:         ''
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
+paginate:            5
 
 # About/contact
 author:
