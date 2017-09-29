@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Drivenn
-tagline:             'Data Driven'
+tagline:             'Driving Decisions With Data'
 description:         ''
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
@@ -13,7 +13,7 @@ baseurl:             ''
 # About/contact
 author:
   name:              Jesse Moore
-  url:               https://twitter.com/mdo
+  linkedin:          https://www.linkedin.com/in/jessemoore1/
   email:             datadrivenn@gmail.com
 
 # Custom vars
