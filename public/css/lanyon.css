@@ -117,13 +117,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 48em) {
-  .masthead-title2 {
+  .masthead-title3 {
     text-align: center;
   }
-  .masthead-title2 small {
+  .masthead-title3 small {
     display: none;
   }
 }
+
+
 
 .masthead2 {
   padding-top:    1rem;
