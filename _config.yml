@@ -3,13 +3,14 @@
 
 # Setup
 title:               Drivenn
-tagline:             'Driving Decisions With Data'
+tagline:             'Data Science On Demand'
 description:         ''
-url:                 http://lanyon.getpoole.com
+url:                 http://drivenn.eu
 baseurl:             ''
 plugins:             [jekyll-paginate]
 paginate:            5
 paginate_path:       "blog/page:num/"
+
 # About/contact
 author:
   name:              Jesse Moore

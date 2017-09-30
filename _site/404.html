@@ -34,16 +34,16 @@
 
     <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<input type="checkbox" class="sidebar2-checkbox" id="sidebar2-checkbox">
 
 <!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
+<div class="sidebar2" id="sidebar2">
+  <div class="sidebar2-item">
     <p></p>
   </div>
 
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">Home</a>
+  <nav class="sidebar2-nav">
+    <a class="sidebar2-nav-item" href="/">Home</a>
 
     
 
@@ -59,7 +59,7 @@
     
       
         
-          <a class="sidebar-nav-item" href="/about.html">About me</a>
+          <a class="sidebar2-nav-item" href="/about.html">About me</a>
         
       
     
@@ -67,13 +67,13 @@
     
       
         
-          <a class="sidebar-nav-item" href="/blog/">Blog</a>
+          <a class="sidebar2-nav-item" href="/blog/">Blog</a>
         
       
     
   </nav>
 
-  <div class="sidebar-item">
+  <div class="sidebar2-item">
     <p>
       &copy; 2017. All rights reserved.
     </p>
@@ -83,17 +83,17 @@
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
+    <div class="wrap2">
+      <div class="masthead2">
+        <div class="container2">
+          <h3 class="masthead-title2">
             <a href="/" title="Home">Drivenn</a>
-            <small>Driving Decisions With Data</small>
+            <small>Data Science On Demand</small>
           </h3>
         </div>
       </div>
 
-      <div class="container content">
+      <div class="container2 content">
         <div class="page">
   <h1 class="page-title">404: Page not found</h1>
   <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="/">Head back home</a> to try finding it again.</p>
@@ -102,19 +102,19 @@
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    <label for="sidebar2-checkbox" class="sidebar2-toggle"></label>
 
     <script>
       (function(document) {
-        var toggle = document.querySelector('.sidebar-toggle');
-        var sidebar = document.querySelector('#sidebar');
-        var checkbox = document.querySelector('#sidebar-checkbox');
+        var toggle = document.querySelector('.sidebar2-toggle');
+        var sidebar2 = document.querySelector('#sidebar2');
+        var checkbox = document.querySelector('#sidebar2-checkbox');
 
         document.addEventListener('click', function(e) {
           var target = e.target;
 
           if(!checkbox.checked ||
-             sidebar.contains(target) ||
+             sidebar2.contains(target) ||
              (target === checkbox || target === toggle)) return;
 
           checkbox.checked = false;

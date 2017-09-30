@@ -285,7 +285,9 @@ tbody tr:nth-child(odd) th {
  * Center the page content.
  */
 
-.container {
+
+
+.container2 {
   max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
@@ -300,26 +302,48 @@ tbody tr:nth-child(odd) th {
  * Super small header above the content for site name and short description.
  */
 
-.masthead {
+
+
+
+.masthead2 {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
 }
-.masthead-title {
+.masthead-title2 {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
 }
-.masthead-title a {
+.masthead-title2 a {
   color: #505050;
 }
-.masthead-title small {
+.masthead-title2 small {
   font-size: 75%;
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
 }
 
+.masthead3 {
+  padding-top:    1rem;
+  padding-bottom: 1rem;
+  margin-bottom: 0rem;
+}
+.masthead-title3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #505050;
+}
+.masthead-title3 a {
+  color: #505050;
+}
+.masthead-title3 small {
+  font-size: 75%;
+  font-weight: 400;
+  color: #c0c0c0;
+  letter-spacing: 0;
+}
 
 /*
  * Posts and pages
