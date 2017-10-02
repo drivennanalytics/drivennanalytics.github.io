@@ -18,19 +18,17 @@
 .fixedElement {
     position:fixed;
     width:100%;
-    z-index:100;
-    background-color:rgb(255,255,255);
-    top:0;
-
-}
-
-.fixedElement3 {
-    position:fixed;
-    z-index:100;
+    z-index:120;
     background-color:rgb(255,255,255);
 }
 
 .fixedElement2 {
+    position:fixed;
+    z-index:140;
+    background-color:rgb(255,255,255);
+}
+
+.fixedElement3 {
     position:fixed;
     z-index:100;
     background-color:rgb(255,255,255);
