@@ -1,6 +1,6 @@
 # **About Me**
---
-  - Currently a consulting **Data Analyst** to Zalando SE, and a **Data Scientist** for Dreamtalents Gmbh. I previously worked at Zalando has a data analyst, and before that had worked as a project manager for upstream oil and gas exploration and downstream refinining.
+___
+ - Currently a consulting **Data Analyst** to Zalando SE, and a **Data Scientist** for Dreamtalents Gmbh. I previously worked at Zalando has a data analyst, and before that had worked as a project manager for upstream oil and gas exploration and downstream refinining.
 
  - Earned a **B.Sc in Mechanical Engineering** from the University of Alberta where I studied physics, heat transfer, engineering design, computational methods, and computational fluid dynamics among other topics.
  
@@ -11,7 +11,7 @@
  - I grew up in western Canada, have travelled to dozens of countries , spent a few years working and living in Australia and Germany, and now live in Bulgaria with my wife and soon to be daughter.
 
 ### Capabilities 
---
+___
 A few of the tools and languages I work with:
 
 **Languages** - R, Shiny, Python, Matlab, Javascript, HTML, CSS, Bash, Markdown
@@ -20,7 +20,7 @@ A few of the tools and languages I work with:
 
 **Machine Learning** - Regression, Classification, Clustering, Recommender System, Neural Networks, Convolutional Neural Networks
 ### Get In Touch
---
+___
 If you have a project you would like to discuss or collaborate on, please send me an
 <a href="mailto:jessemoore07@gmail.com?subject=Hello From Drivenn.eu">email</a>, or connect with me on <a href="https://www.linkedin.com/in/jessemoore1
 ">Linkedin</a>.
