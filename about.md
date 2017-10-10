@@ -14,7 +14,6 @@ ___
 
 * I grew up in western Canada, have travelled to dozens of countries , spent a few years working and living in Australia and Germany, and now live in Bulgaria with my wife and soon to be daughter.
 
----
 ### **Capabilities**
 ___
 A few of the tools and languages I work with:
