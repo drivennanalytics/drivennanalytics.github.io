@@ -1,16 +1,21 @@
+---
+layout: page
+title: About Me
+---
 # **About Me**
 ___
- - Currently a consulting **Data Analyst** to Zalando SE, and a **Data Scientist** for Dreamtalents Gmbh. I previously worked at Zalando has a data analyst, and before that had worked as a project manager for upstream oil and gas exploration and downstream refinining.
+* Currently a consulting **Data Analyst** to Zalando SE, and a **Data Scientist** for Dreamtalents Gmbh. I previously worked at Zalando has a data analyst, and before that had worked as a project manager for upstream oil and gas exploration and downstream refinining.
 
- - Earned a **B.Sc in Mechanical Engineering** from the University of Alberta where I studied physics, heat transfer, engineering design, computational methods, and computational fluid dynamics among other topics.
+* Earned a **B.Sc in Mechanical Engineering** from the University of Alberta where I studied physics, heat transfer, engineering design, computational methods, and computational fluid dynamics among other topics.
  
- - I am at my best writing **automated cloud applications** with AWS or Google Apps, **creating dashboards**, and building great tools with data.
+* I am at my best writing **automated cloud applications** with AWS or Google Apps, **creating dashboards**, and building great tools with data.
  
- - My unique assets to business are my domain knowledge in market and business, and previous career as a project manager. I am able to quickly build up applications and programs that provide value.
+* My unique assets to business are my domain knowledge in market and business, and previous career as a project manager. I am able to quickly build up applications and programs that provide value.
 
- - I grew up in western Canada, have travelled to dozens of countries , spent a few years working and living in Australia and Germany, and now live in Bulgaria with my wife and soon to be daughter.
+* I grew up in western Canada, have travelled to dozens of countries , spent a few years working and living in Australia and Germany, and now live in Bulgaria with my wife and soon to be daughter.
 
-### Capabilities 
+---
+### **Capabilities**
 ___
 A few of the tools and languages I work with:
 
@@ -19,11 +24,11 @@ A few of the tools and languages I work with:
 **Tools** - Apache Spark, Docker, Google Cloud (App Engine, BigQuery, Datalab, DataStudio), AWS (Data Pipelines, Athena, EMR, EC2)
 
 **Machine Learning** - Regression, Classification, Clustering, Recommender System, Neural Networks, Convolutional Neural Networks
-### Get In Touch
-___
+
+### **Get In Touch**
+---
 If you have a project you would like to discuss or collaborate on, please send me an
-<a href="mailto:jessemoore07@gmail.com?subject=Hello From Drivenn.eu">email</a>, or connect with me on <a href="https://www.linkedin.com/in/jessemoore1
-">Linkedin</a>.
+<a href="mailto:jessemoore07@gmail.com?subject=Hello From Drivenn.eu">email</a>, or connect with me on <a href="https://www.linkedin.com/in/jessemoore1">Linkedin</a>.
 
 
 
